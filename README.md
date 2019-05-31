@@ -4,6 +4,8 @@
 
 WishlistItemsProductsResourceRelationship module provides relation between wishlist items and concrete products.
 
+**This module is not continued at this point.**
+
 ## Installation
 
 ```
